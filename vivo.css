@@ -1,0 +1,30 @@
+
+.container-fluid {
+    height: 80px;
+    position: fixed;
+    
+}
+li.nav-item {
+    right: 12px;
+    /* width: 152px; */
+    padding: 5px;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    height: 50px;
+}
+svg.bi.bi-person-fill {
+    width: 25px;
+    height: 21px;
+}
+li.nav-item {
+    margin-left: 8px;
+}
+button.nav-link {
+    margin-left: -6px;
+}
+ul.navbar-nav {
+    margin: -11px;
+}
+a.nav-link:hover {
+        color: rgb(10, 165, 88);
+  }
